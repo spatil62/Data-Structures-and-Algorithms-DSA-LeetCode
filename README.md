@@ -28,12 +28,14 @@ This repository is a curated collection of my solutions categorized by topics, d
 - 📐 Math & Geometry
 - 💡 Bit Manipulation
 
-🧠 **Languages**: Java | Python | C++  
-🧩 **Topics**: Data Structures | Algorithms | Dynamic Programming | Graphs | and more  
-🔥 **Goal**: Write clean, efficient, and production-ready code every single time.
+## 🌟 Why This Repo?
 
-> “Not just solving problems — solving them *right*.”
+- 💻 Demonstrates hands-on coding skills in Java, Python, and C++
+- 🚦 Showcases understanding of problem-solving patterns
+- 📈 Highlights consistency, attention to detail, and optimization mindset
+
+> “The goal isn’t just to solve problems — it's to *think like an engineer*.”
 
 📈 Consistency. Curiosity. Code. Never Give Up 
-👩‍💻 Let’s connect: [LinkedIn](https://www.linkedin.com/in/sneha-sunil-patil)
+👩‍💻 Let’s connect: [LinkedIn](https://www.linkedin.com/in/sneha-sunil-patil](https://www.linkedin.com/in/sneha-patil-b46656150/)
 
